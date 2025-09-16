@@ -1,4 +1,4 @@
-## Salve, meu nome é Lucas Alexandre
+## Prazer, meu nome é Lucas Alexandre
 
 
 # 💻 Tech Stack:
